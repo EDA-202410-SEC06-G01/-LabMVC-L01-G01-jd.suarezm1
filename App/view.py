@@ -117,3 +117,10 @@ if __name__ == "__main__":
         else:
             print("Opcion erronea, vuelva a elegir.\n")
     sys.exit(0)
+
+def hola(buenas):
+    print("que me cuentas")
+    
+    
+
+    
